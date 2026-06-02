@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\manager\\createcandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\manager\\createcandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\candidate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\candidate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\candidate\\sectionquestions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\candidate\\sectionquestions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\controllers\\managerquestionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\controllers\\managerquestionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\managerquestions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\managerquestions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\managerquestions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\managerquestions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\managerquestions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\managerquestions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\models\\managerquestionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\models\\managerquestionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\websteraptitude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\websteraptitude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\views\\candidate\\finalresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\views\\candidate\\finalresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\models\\testsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\models\\testsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\models\\candidatesectionattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\models\\candidatesectionattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\models\\candidateanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\models\\candidateanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\data\\migrations\\20251225072134_addquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\data\\migrations\\20251225072134_addquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\data\\migrations\\20251225073620_addsectiontimelimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\data\\migrations\\20251225073620_addsectiontimelimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|c:\\users\\sumiaya ayiman\\source\\repos\\websteraptitude\\websteraptitude\\data\\migrations\\20251225073110_addcandidateanswers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF836E8-0F51-46BA-88AD-7AAEE63B7733}|WebsterAptitude\\WebsterAptitude.csproj|solutionrelative:websteraptitude\\data\\migrations\\20251225073110_addcandidateanswers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCandidate.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Manager\\CreateCandidate.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\Manager\\CreateCandidate.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Manager\\CreateCandidate.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\Manager\\CreateCandidate.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T10:40:58.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T10:13:36.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:56:50.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SectionQuestions.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Candidate\\SectionQuestions.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\Candidate\\SectionQuestions.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Candidate\\SectionQuestions.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\Candidate\\SectionQuestions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T07:24:40.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Candidate\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\Candidate\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Candidate\\Index.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\Candidate\\Index.cshtml",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAYwBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T07:11:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "WebsterAptitude\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAwM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:10:39.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "WebsterAptitude\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:36:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\SeedData.cs",
+              "RelativeToolTip": "WebsterAptitude\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:16:17.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebsterAptitude\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:21:03.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\Manager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\Manager\\Index.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T10:15:03.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:10:52.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:24:06.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:25:08.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:25:26.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerQuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Controllers\\ManagerQuestionsController.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Controllers\\ManagerQuestionsController.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Controllers\\ManagerQuestionsController.cs",
+              "RelativeToolTip": "WebsterAptitude\\Controllers\\ManagerQuestionsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:18:45.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebsterAptitude\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebsterAptitude\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-25T19:11:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\ManagerQuestions\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\ManagerQuestions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\ManagerQuestions\\Index.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\ManagerQuestions\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T13:20:27.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\ManagerQuestions\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\ManagerQuestions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\ManagerQuestions\\Create.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\ManagerQuestions\\Create.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T13:21:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\ManagerQuestions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\ManagerQuestions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\ManagerQuestions\\Edit.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\ManagerQuestions\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T13:21:37.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManagerQuestionsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\ManagerQuestionsViewModel.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Models\\ManagerQuestionsViewModel.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\ManagerQuestionsViewModel.cs",
+              "RelativeToolTip": "WebsterAptitude\\Models\\ManagerQuestionsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:26:28.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:27:21.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebsterAptitude\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebsterAptitude\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-25T11:10:32.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebsterAptitude.csproj",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\WebsterAptitude.csproj",
+              "RelativeDocumentMoniker": "WebsterAptitude\\WebsterAptitude.csproj",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\WebsterAptitude.csproj",
+              "RelativeToolTip": "WebsterAptitude\\WebsterAptitude.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T11:08:47.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\Question.cs",
+              "RelativeToolTip": "WebsterAptitude\\Models\\Question.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:20:36.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:27:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Program.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Program.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Program.cs",
+              "RelativeToolTip": "WebsterAptitude\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:22:44.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251225073620_AddSectionTimeLimit.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\Migrations\\20251225073620_AddSectionTimeLimit.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Data\\Migrations\\20251225073620_AddSectionTimeLimit.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\Migrations\\20251225073620_AddSectionTimeLimit.cs",
+              "RelativeToolTip": "WebsterAptitude\\Data\\Migrations\\20251225073620_AddSectionTimeLimit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:36:21.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CandidateSectionAttempt.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\CandidateSectionAttempt.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Models\\CandidateSectionAttempt.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\CandidateSectionAttempt.cs",
+              "RelativeToolTip": "WebsterAptitude\\Models\\CandidateSectionAttempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:36:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FinalResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Candidate\\FinalResult.cshtml",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Views\\Candidate\\FinalResult.cshtml",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Views\\Candidate\\FinalResult.cshtml",
+              "RelativeToolTip": "WebsterAptitude\\Views\\Candidate\\FinalResult.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T07:43:12.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CandidateAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\CandidateAnswer.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Models\\CandidateAnswer.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\CandidateAnswer.cs",
+              "RelativeToolTip": "WebsterAptitude\\Models\\CandidateAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:30:22.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251225072134_AddQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\Migrations\\20251225072134_AddQuestions.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Data\\Migrations\\20251225072134_AddQuestions.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\Migrations\\20251225072134_AddQuestions.cs",
+              "RelativeToolTip": "WebsterAptitude\\Data\\Migrations\\20251225072134_AddQuestions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:21:34.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TestSection.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\TestSection.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Models\\TestSection.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Models\\TestSection.cs",
+              "RelativeToolTip": "WebsterAptitude\\Models\\TestSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:35:25.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251225073110_AddCandidateAnswers.cs",
+              "DocumentMoniker": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\Migrations\\20251225073110_AddCandidateAnswers.cs",
+              "RelativeDocumentMoniker": "WebsterAptitude\\Data\\Migrations\\20251225073110_AddCandidateAnswers.cs",
+              "ToolTip": "C:\\Users\\SUMIAYA AYIMAN\\source\\repos\\WebsterAptitude\\WebsterAptitude\\Data\\Migrations\\20251225073110_AddCandidateAnswers.cs",
+              "RelativeToolTip": "WebsterAptitude\\Data\\Migrations\\20251225073110_AddCandidateAnswers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:31:10.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

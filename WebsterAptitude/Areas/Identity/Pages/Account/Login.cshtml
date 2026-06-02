@@ -1,0 +1,80 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Sign In";
+}
+
+<div class="container d-flex justify-content-center align-items-center"
+     style="min-height: 90vh;">
+
+    <div class="card shadow-lg p-4"
+         style="width: 380px; border-radius: 14px;">
+
+        <!-- Brand -->
+        <div class="text-center mb-4">
+            <div style="font-size: 2rem;">🧠</div>
+            <h4 class="fw-bold mt-2">Webster Aptitude</h4>
+            <p class="text-muted small mb-0">
+                Sign in to continue
+            </p>
+        </div>
+
+        <form method="post">
+            <div asp-validation-summary="ModelOnly"
+                 class="text-danger small mb-2"></div>
+
+            <!-- Email -->
+            <div class="mb-3">
+                <label asp-for="Input.Email"
+                       class="form-label small fw-semibold"></label>
+                <input asp-for="Input.Email"
+                       class="form-control"
+                       placeholder="you@example.com" />
+                <span asp-validation-for="Input.Email"
+                      class="text-danger small"></span>
+            </div>
+
+            <!-- Password -->
+            <div class="mb-3">
+                <label asp-for="Input.Password"
+                       class="form-label small fw-semibold"></label>
+                <input asp-for="Input.Password"
+                       class="form-control"
+                       placeholder="••••••••" />
+                <span asp-validation-for="Input.Password"
+                      class="text-danger small"></span>
+            </div>
+
+            <!-- Remember Me -->
+            <div class="form-check mb-3">
+                <input class="form-check-input"
+                       asp-for="Input.RememberMe" />
+                <label class="form-check-label small"
+                       asp-for="Input.RememberMe">
+                    Remember me
+                </label>
+            </div>
+
+            <!-- Submit -->
+            <button type="submit"
+                    class="btn btn-primary w-100 py-2">
+                Sign In
+            </button>
+        </form>
+
+        <!-- Divider -->
+        <hr class="my-4">
+
+        <!-- Footer links -->
+        <div class="text-center small">
+            <a asp-page="./ForgotPassword"
+               class="text-decoration-none">
+                Forgot password?
+            </a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

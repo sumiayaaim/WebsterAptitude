@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Create Candidate";
+}
+
+<div class="container mt-5" style="max-width: 700px;">
+
+    <!-- Header -->
+    <div class="mb-4">
+        <h3 class="fw-bold">Create New Candidate</h3>
+        <p class="text-muted">
+            Add a new candidate and assign login credentials for the aptitude test.
+        </p>
+    </div>
+
+    <!-- Alerts -->
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger">
+            @ViewBag.Error
+        </div>
+    }
+
+    @if (ViewBag.Success != null)
+    {
+        <div class="alert alert-success">
+            @ViewBag.Success
+        </div>
+    }
+
+    <!-- Form Card -->
+    <div class="card shadow-sm border-0">
+        <div class="card-body p-4">
+
+            <form method="post">
+
+                <!-- Full Name -->
+                <div class="mb-3">
+                    <label class="form-label fw-semibold">
+                        Full Name
+                    </label>
+                    <input type="text"
+                           name="fullName"
+                           class="form-control"
+                           placeholder="Enter candidate full name"
+                           required />
+                </div>
+
+                <!-- Email -->
+                <div class="mb-3">
+                    <label class="form-label fw-semibold">
+                        Email (Username)
+                    </label>
+                    <input type="email"
+                           name="email"
+                           class="form-control"
+                           placeholder="example@email.com"
+                           required />
+                </div>
+
+                <!-- Password -->
+                <div class="mb-3">
+                    <label class="form-label fw-semibold">
+                        Password
+                    </label>
+                    <input type="password"
+                           name="password"
+                           class="form-control"
+                           placeholder="Set a secure password"
+                           required />
+                    <div class="form-text">
+                        Minimum 6 characters recommended.
+                    </div>
+                </div>
+
+                <!-- ✅ Confirm Password -->
+                <div class="mb-4">
+                    <label class="form-label fw-semibold">
+                        Confirm Password
+                    </label>
+                    <input type="password"
+                           name="confirmPassword"
+                           class="form-control"
+                           placeholder="Re-enter password"
+                           required />
+                </div>
+
+                <!-- Actions -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <a asp-action="Index"
+                       class="btn btn-outline-secondary">
+                        ← Back to Dashboard
+                    </a>
+
+                    <button type="submit"
+                            class="btn btn-primary px-4">
+                        Create Candidate
+                    </button>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+</div>

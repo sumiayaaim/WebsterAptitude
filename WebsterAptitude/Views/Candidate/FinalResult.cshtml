@@ -1,0 +1,30 @@
+﻿<div class="container mt-5">
+    <div class="card p-4 text-center">
+
+        <h3 class="mb-3">Final Result</h3>
+
+        <p class="fs-5">
+            Total Marks: <strong>@ViewBag.TotalMarks</strong>
+        </p>
+
+        @if ((bool)ViewBag.Passed)
+        {
+            <div class="alert alert-success">
+                <strong>Congratulations!</strong><br />
+                You have cleared this round.<br />
+                Next round would be the HR Round.
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger">
+                Thank you for appearing.<br />
+                You did not qualify this round.
+            </div>
+        }
+
+        <a asp-action="Index" class="btn btn-outline-primary mt-3">
+            Back to Dashboard
+        </a>
+    </div>
+</div>

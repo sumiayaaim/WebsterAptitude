@@ -1,0 +1,50 @@
+﻿@model WebsterAptitude.Models.ManagerQuestionsViewModel
+
+<h3 class="mb-3">
+    Manage Questions — @Model.Section.Name
+</h3>
+
+<a asp-action="Create"
+   asp-route-sectionId="@Model.Section.Id"
+   class="btn btn-primary mb-3">
+    + Add Question
+</a>
+
+<table class="table table-hover align-middle">
+    <thead class="table-light">
+        <tr>
+            <th>Question</th>
+            <th>Correct</th>
+            <th>Marks</th>
+            <th style="width:160px">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var q in Model.Questions)
+        {
+            <tr>
+                <td>@q.QuestionText</td>
+                <td>@q.CorrectOption</td>
+                <td>@q.Marks</td>
+                <td>
+                    <a asp-action="Edit"
+                       asp-route-id="@q.Id"
+                       class="btn btn-sm btn-outline-primary">
+                        Edit
+                    </a>
+
+                    <form asp-action="Delete"
+                          asp-route-id="@q.Id"
+                          method="post"
+                          class="d-inline">
+                        @Html.AntiForgeryToken()
+                        <button class="btn btn-sm btn-outline-danger"
+                                onclick="return confirm('Delete this question?')">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

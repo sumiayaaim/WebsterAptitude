@@ -1,0 +1,145 @@
+﻿@model List<WebsterAptitude.Models.CandidateProfile>
+
+@{
+    ViewData["Title"] = "Manager Dashboard";
+}
+
+<div class="container mt-5">
+
+    <!-- HEADER -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h3 class="fw-bold">Manager Dashboard</h3>
+        <a asp-action="CreateCandidate" class="btn btn-primary">
+            + Create Candidate
+        </a>
+    </div>
+
+    <!-- SUMMARY CARDS -->
+    <div class="row mb-5">
+        <div class="col-md-4">
+            <div class="card text-center p-3 shadow-sm border-0">
+                <h6 class="text-muted">Total Candidates</h6>
+                <h3 class="fw-bold">@ViewBag.TotalCandidates</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center p-3 shadow-sm border-0">
+                <h6 class="text-muted">Appeared in Test</h6>
+                <h3 class="fw-bold">@ViewBag.TestAppeared</h3>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center p-3 shadow-sm border-0">
+                <h6 class="text-muted">Cleared (HR Round)</h6>
+                <h3 class="fw-bold">@ViewBag.HRCleared</h3>
+            </div>
+        </div>
+    </div>
+
+    <!-- 🔹 MANAGE QUESTIONS SECTION -->
+    <div class="mb-5">
+        <h4 class="fw-semibold mb-3">Manage Aptitude Questions</h4>
+
+        <div class="row g-4">
+
+            <!-- GENERAL KNOWLEDGE -->
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="fw-semibold">🧠 General Knowledge</h5>
+                        <p class="text-muted flex-grow-1 mt-2">
+                            Manage questions related to current affairs and general awareness.
+                        </p>
+
+                        <a asp-controller="ManagerQuestions"
+                           asp-action="Index"
+                           asp-route-sectionId="1"
+                           class="btn btn-outline-primary w-100">
+                            Manage Questions
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- MATHEMATICS -->
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="fw-semibold">📐 Mathematics</h5>
+                        <p class="text-muted flex-grow-1 mt-2">
+                            Add or update numerical and problem-solving questions.
+                        </p>
+
+                        <a asp-controller="ManagerQuestions"
+                           asp-action="Index"
+                           asp-route-sectionId="2"
+                           class="btn btn-outline-primary w-100">
+                            Manage Questions
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- COMPUTER TECHNOLOGY -->
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="fw-semibold">💻 Computer Technology</h5>
+                        <p class="text-muted flex-grow-1 mt-2">
+                            Maintain questions related to IT, computers, and technology basics.
+                        </p>
+
+                        <a asp-controller="ManagerQuestions"
+                           asp-action="Index"
+                           asp-route-sectionId="3"
+                           class="btn btn-outline-primary w-100">
+                            Manage Questions
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- 🔹 CANDIDATE LIST -->
+    <div class="card p-4 shadow-sm border-0">
+        <h5 class="mb-3 fw-semibold">Candidate List</h5>
+
+        <table class="table table-striped align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Full Name</th>
+                    <th>Email</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    var c = Model[i];
+
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@c.FullName</td>
+                        <td>@c.Email</td>
+                        <td>
+                            @if (ViewBag.HRCleared > 0)
+                            {
+                                <span class="badge bg-success">HR Cleared</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-secondary">In Progress</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>
